@@ -21,7 +21,7 @@ Run src/data/download_dataset.py to download and extract the datasets.
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
-    |.. ├── data           <- Scripts to acquire and manipulate the data
+    |   ├── data           <- Scripts to acquire and manipulate the data
     │   │   └── download_dataset1.py
     │   │
     │   ├── preprocess     <- Scripts to turn raw data into suitable features that will be used in modelling
