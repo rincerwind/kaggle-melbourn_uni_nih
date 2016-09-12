@@ -6,6 +6,7 @@ Predict seizures in long-term human intracranial EEG recordings
 
 # Getting Started
 !!! Note, the script still doesn't work because I don't know how to pass through the authentication phase in Kaggle !!!
+
 Run src/data/download_dataset1.py to download and extract the first training and test sets.
 
 # Project Organization
